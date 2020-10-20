@@ -1,0 +1,27 @@
+1 Crie uma função que recebe 2 parâmetros e retorna a soma deles.
+
+2 Crie uma função que recebe 2 parâmetros e retorna a soma deles, porem caso seja passado um parâmetro vazio ela retorne zero.
+
+3 Crie uma função que retorna a palavra (impar/par) de acordo com seu parâmetro inteiro.
+
+4 Crie uma função que recebe 2 parâmetros e retorna a multiplicação deles.
+
+5 criar um array com objeto que contem dois elementos nome(ex: Maria, Ana) e suas idades: ex(14, 23) e faça uma função que retorne quem tem maior idade.
+
+6 crie um array primos: primos = ['joao', 'lucas', 'guilherme'] e adicione com a funcao push() , mais tres primos ('Nelson', 'thiago', 'Matheus')
+
+7 peguei o array de primos e coloque em ordem crescente pela letra alfabetica;
+
+8 uma função q recebe um objeto de jogadores e tem a propriedade de score no objeto e essa função ordena do maior para o menor,E outra função q retorna os três maiores da lista,E outra função q retorna quem ganhou
+
+9 crie um array com o nome carros que recebe ['celta', 'uno', 'onix'] e crie duas funções uma que retorne o primeiro index do array e a outra função que retorne o ultimo nome da função.
+
+10- função que recebe o objeto de primos e retorna quem tem e no nome
+
+11 -Crie uma função que recebe o ano de nascimento da pessoa informando se ela é maior de idade ou menor.
+
+12 - crie uma função que transforme a primeira letra em maiúsculo do array , tbm tem q transformar a primeira letra de todos os itens do array em maiúsculo 
+
+13 -  crie uma função chamado semáforo que recebe verde , vermelho e amarelo , e retorne se pode passar ou não
+
+14 - criar array de tarefas , que tenha tres etapas : se foi iniciada, se esta em andamento, ou se esta concluida e porcentagem.
